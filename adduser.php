@@ -1,5 +1,5 @@
 <?php
-
+//I have added a comment
 //To Handle Session Variables on This Page
 session_start();
 
